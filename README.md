@@ -8,7 +8,7 @@
 
 The following example demonstrates how to calculate a point on a page where you wish to add a sticky note. The CreateTransform method calculates the required position so that the sticky note is always added to the page's top right corner regardless of its rotation angle. The GetPageInfo method returns the page's crop box and a rotation angle.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-viewer-get-page-info&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-viewer-get-page-info&~~~was_helpful=no)
 
